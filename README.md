@@ -1,4 +1,5 @@
 # GNL (GNL is not Langchain)
+![GNL](https://github.com/qkaTlehdrnf/gnl/assets/29864112/e36fb282-b6fa-4d31-aae2-36f0c1e813c9)
 
 ## Introduction
 The current AI era is dominated by numerous large language models (LLMs). These LLMs are driven by APIs or local GPU or CPU-based systems, which are diverse and often unorganized. Historically, attempting to consolidate multiple systems into one solution has been challenging and often results in inefficiencies.
